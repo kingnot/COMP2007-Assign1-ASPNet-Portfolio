@@ -13,5 +13,11 @@ namespace COMP2007_Assign1_ASPNet_Portfolio
         {
 
         }
+
+        protected void SubmitButton_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("Default.aspx");
+            //future code will send email confirmation when mail service is available
+        }
     }
 }
