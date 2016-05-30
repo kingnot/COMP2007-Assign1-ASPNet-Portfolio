@@ -1,5 +1,6 @@
 ﻿/* custom styles live here */
 
+/*Generic Section*/
 body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
   text-align: center;
@@ -7,6 +8,10 @@ body {
 
 a {
   color: #00B7FF;
+}
+
+div.container {
+    width: 1500px;
 }
 
 div.container p {
@@ -28,7 +33,7 @@ h2.blog-post-title {
 
 /*Cover Section*/
 div.cover {
-    height: 650px;
+    height: 850px;
     background: url(../Assets/Fei_Wang_Cover.jpg) no-repeat center center fixed;
     background-size: cover;
     padding-top: 100px;

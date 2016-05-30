@@ -14,6 +14,7 @@
             <h1>Contact Me</h1>
         </div>
         <div class="row">
+            <!-- Contact Info in a panel -->
             <div class="col-md-4">
                 <div class="panel panel-primary">
                     <div class="panel-heading">
@@ -30,6 +31,7 @@
                     </div>
                 </div>              
             </div>
+            <!-- Contact Form with validation -->
             <div class="col-md-6">
                 <div class="form-group">
                     <label class="control-label" for="FirstNameTextBox">First Name</label>

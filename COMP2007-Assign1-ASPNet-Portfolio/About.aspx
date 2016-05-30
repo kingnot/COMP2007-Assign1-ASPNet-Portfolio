@@ -3,7 +3,7 @@
  Author's Name: Fei Wang
  Date: May 29, 2016
  Website Name: ASP.NET Web Forms Portfolio Site
- Description: This is the html of About page 
+ Description: This is the html of About page
 --%>
 
 <%@ Page Title="About" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="COMP2007_Assign1_ASPNet_Portfolio.About" %>
