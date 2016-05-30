@@ -71,6 +71,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
+    <Content Include="Assets\exa-space-demo.jpg" />
+    <Content Include="Assets\exa-space-wordexpress.jpg" />
+    <Content Include="Assets\Fei_Wang_Cover.jpg" />
+    <Content Include="Assets\JAVAMART.jpg" />
     <Content Include="Contact.aspx" />
     <Content Include="Default.aspx" />
     <Content Include="packages.config" />
@@ -169,9 +173,7 @@
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Assets\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

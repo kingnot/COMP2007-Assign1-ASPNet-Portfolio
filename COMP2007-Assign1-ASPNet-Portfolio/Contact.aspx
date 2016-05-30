@@ -1,7 +1,15 @@
-﻿<%@ Page Title="Contact" Language="C#" MasterPageFile="~/Contact.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="COMP2007_Assign1_ASPNet_Portfolio.Contact1" %>
+﻿<%--
+ File Name: Contact.aspx
+ Author's Name: Fei Wang
+ Date: May 29, 2016
+ Website Name: ASP.NET Web Forms Portfolio Site
+ Description: This is the html of Contact page
+--%>
+
+<%@ Page Title="Contact" Language="C#" MasterPageFile="~/Contact.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="COMP2007_Assign1_ASPNet_Portfolio.Contact1" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
-    <div class="container">
+    <div class="container contact-form">
         <div class="row col-md-offset-4 col-md-8">
             <h1>Contact Me</h1>
         </div>

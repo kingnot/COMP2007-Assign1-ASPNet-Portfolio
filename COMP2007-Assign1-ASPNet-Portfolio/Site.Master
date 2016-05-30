@@ -1,4 +1,12 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="COMP2007_Assign1_ASPNet_Portfolio.Home" %>
+﻿<%--
+ File Name: Site.Master
+ Author's Name: Fei Wang
+ Date: May 29, 2016
+ Website Name: ASP.NET Web Forms Portfolio Site
+ Description: This is the Master Page for Defualt, About, Projects and Services page
+--%>
+
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="COMP2007_Assign1_ASPNet_Portfolio.Home" %>
 
 <!DOCTYPE html>
 
